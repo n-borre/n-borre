@@ -18,7 +18,7 @@
   <code><img width="15%" src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://th.bing.com/th?q=Visual+Studio+Code+Logo+Fondo+Blanco&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247"></code>
+  <code><img width="15%" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/server-express-1023136?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85"></code>
   <br />
    
 </p>
