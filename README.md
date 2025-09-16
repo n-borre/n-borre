@@ -14,12 +14,12 @@
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
-- I’m currently learning __Ruby__, __PHP__, & __GoLang__.
-- I’m looking to collaborate on anything!
-- Ask me about anything, I am happy to help.
-- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
-- How to reach me: __z.ayers@icloud.com__
+- Actualmentes estoy trabajando como desarrollador para un sistema ERP.
+- Actualmente estoy aprendiendo  __Python__, __Pandas__, & __Numpy__.
+- Estoy buscado colaborar con temas de Análisis de datos!
+- Yo estudié la carrera de Matemáticas Aplicadas y Computación en la UNAM FES ACATLÁN , adicionalmente realice un curso de Análisis de datos en TripleTen.
+- Me interesa seguir mejorando mis conocimientos y habilidades.
+- Como contactarme: __josue.szx2@gmail.com__
 
 ---
 
