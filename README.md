@@ -6,8 +6,25 @@
 <h1 align="center">Yo soy <a href="https://github.com/Aryagm">Josué Sánchez Sánchez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zjayers)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9-s%C3%A1nchez-s%C3%A1nchez-nb/)
 
-**Languages and Tools:**
+&nbsp;
+
+<!-- Talking about you -->
+**About Me:**
+
+- I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
+- I’m currently learning __Ruby__, __PHP__, & __GoLang__.
+- I’m looking to collaborate on anything!
+- Ask me about anything, I am happy to help.
+- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
+- How to reach me: __z.ayers@icloud.com__
+
+---
+
+
+**Lenguajes y Tools:**
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
