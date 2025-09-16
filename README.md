@@ -18,7 +18,7 @@
   <code><img width="15%" src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/server-express-1023136?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85"></code>
+  <code><img width="15%" src="https://crmchap.co.uk/images/AzureSQL-FI.png"></code>
   <br />
    
 </p>
