@@ -6,7 +6,7 @@
 <h1 align="center">Yo soy <a href="https://github.com/Aryagm">Josué Sánchez Sánchez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zjayers)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/n-borre)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9-s%C3%A1nchez-s%C3%A1nchez-nb/)
 
 &nbsp;
