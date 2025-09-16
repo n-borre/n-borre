@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https:[//miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png](https://media.licdn.com/dms/image/v2/D4E16AQG0uNeVB8Nk2Q/profile-displaybackgroundimage-shrink_350_1400/B4EZk33Q13IoAY-/0/1757578858729?e=1761177600&v=beta&t=tCgivCrL_XnyE_lRDbswYEEGSbsU5meuFnTCYUi8RrI)" height="230"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQG0uNeVB8Nk2Q/profile-displaybackgroundimage-shrink_350_1400/B4EZk33Q13IoAY-/0/1757578858729?e=1761177600&v=beta&t=tCgivCrL_XnyE_lRDbswYEEGSbsU5meuFnTCYUi8RrI" height="230"/>
 </p>
+
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Arya Manjaramkar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/Aryagm">Josué Sánchez Sánchez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
@@ -19,7 +20,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/arya-manjaramkar" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/josu%C3%A9-s%C3%A1nchez-s%C3%A1nchez-nb/" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:josue.snz@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
