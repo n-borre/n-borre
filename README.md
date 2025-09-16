@@ -14,6 +14,7 @@
   <code><img width="15%" src="https://th.bing.com/th/id/OIP.b3P4rdrVHMIHbhQXnwRVewHaCd?w=312&h=116&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="15%" src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg](https://th.bing.com/th/id/OIP.-k_WZ_qxTJNSwH4k70wnFwHaHa?w=156&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3)"></code>
   
   <br />
 </p>
