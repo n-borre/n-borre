@@ -13,9 +13,11 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://numpy.org/doc/stable/_static/numpylogo.svg"></code>
   <code><img width="15%" src="https://pandas.pydata.org/static/img/pandas_white.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  
+  https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg
   <br />
 </p>
 
