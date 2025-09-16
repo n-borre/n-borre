@@ -18,7 +18,7 @@
   <code><img width="15%" src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://th.bing.com/th/id/OIP.73nvkFpZDdtEO4cpbW-6aQAAAA?w=193&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"></code>
+  <code><img width="15%" src="https://th.bing.com/th?q=SQL+Base+De+Datos+Logo&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247"></code>
   <br />
    
 </p>
